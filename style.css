@@ -45,7 +45,7 @@ nav ul li a {
 }
 
 @media only screen and (max-width: 768px) {
-  /* Adjust styling for screens with a maximum width of 768px */
+
   .container {
       flex-direction: column;
       align-items: flex-start;
